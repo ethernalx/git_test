@@ -1,1 +1,1 @@
-This is ethernalx's first git project!
+This is thural's first git project!
